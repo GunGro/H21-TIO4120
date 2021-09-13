@@ -14,10 +14,10 @@ Move to the desired folder/directory on your computer. Use the commands `ls` to 
 
 ## Git
 
-The most often used commands are `git status`, to see which files are edited since the last commited change. 
+The most often used command is `git status`, to see which files are edited since the last commited change. 
 1. `git status`
 
-Once you are done with a file for the day, use `git status` to see which files are modified. Thereafter use `git add path_to_edited_file' to track the desired files. Use `git status` again to see what is tracked for the next commit.
+Once you are done with a file for the day, use `git status` to see which files are modified. Thereafter use `git add path_to_edited_filer` to track the desired files. Use `git status` again to see what is tracked for the next commit.
 2. `git add path_to_file`
 
 Once you have tracked all the changes needed for the next commit, then you are ready to commit. Use `git commit -m "commit message"`. Please keep the commit messages short and descriptive of the work done since the last commit.
